@@ -1,3 +1,4 @@
-## You can see all projects in action here
+## My Basic javascript projects
 
+Learned from:
 [Projects](https://www.vanillajavascriptprojects.com/)
